@@ -1,0 +1,9 @@
+@ARTICLE{9364911,
+  author={Xia, Wei and Zhang, Xiangdong and Gao, Quanxue and Shu, Xiaochuang and Han, Jungong and Gao, Xinbo},
+  journal={IEEE Transactions on Cybernetics}, 
+  title={Multiview Subspace Clustering by an Enhanced Tensor Nuclear Norm}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TCYB.2021.3052352}}

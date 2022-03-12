@@ -1,0 +1,14 @@
+@article{XiaWYGHG22,
+  author    = {Wei Xia and
+               Sen Wang and
+               Ming Yang and
+               Quanxue Gao and
+               Jungong Han and
+               Xinbo Gao},
+  title     = {Multi-view graph embedding clustering network: Joint self-supervision
+               and block diagonal representation},
+  journal   = {Neural Networks},
+  volume    = {145},
+  pages     = {1--9},
+  year      = {2022}
+}

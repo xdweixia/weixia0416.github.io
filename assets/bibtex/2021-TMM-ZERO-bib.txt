@@ -1,0 +1,9 @@
+@ARTICLE{9573362,
+  author={Deng, Siyang and Xiang, Gang and Gao, Quanxue and Xia, Wei and Gao, Xinbo},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Zero-Shot Learning Based on Quality-Verifying Adversarial Network}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TMM.2021.3119854}}

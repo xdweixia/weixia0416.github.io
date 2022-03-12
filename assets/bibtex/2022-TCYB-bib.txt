@@ -1,0 +1,9 @@
+@ARTICLE{9693309,
+  author={Xia, Wei and Gao, Quanxue and Wang, Qianqian and Gao, Xinbo},
+  journal={IEEE Transactions on Cybernetics}, 
+  title={Tensor Completion-Based Incomplete Multiview Clustering}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-10},
+  doi={10.1109/TCYB.2021.3140068}}

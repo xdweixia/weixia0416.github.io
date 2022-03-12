@@ -1,0 +1,11 @@
+@inproceedings{GaoXWXZ20,
+  author    = {Quanxue Gao and
+               Wei Xia and
+               Zhizhen Wan and
+               De{-}Yan Xie and
+               Pu Zhang},
+  title     = {Tensor-SVD Based Graph Learning for Multi-View Subspace Clustering},
+  booktitle = {The Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI}},
+  pages     = {3930--3937},
+  year      = {2020}
+}

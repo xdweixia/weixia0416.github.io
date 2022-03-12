@@ -1,0 +1,9 @@
+@ARTICLE{9472979,
+  author={Xia, Wei and Wang, Qianqian and Gao, Quanxue and Zhang, Xiangdong and Gao, Xinbo},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Self-supervised Graph Convolutional Network for Multi-view Clustering}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TMM.2021.3094296}}

@@ -1,0 +1,14 @@
+@article{GaoZXXGT21,
+  author    = {Quanxue Gao and
+               Pu Zhang and
+               Wei Xia and
+               De{-}Yan Xie and
+               Xinbo Gao and
+               Dacheng Tao},
+  title     = {Enhanced Tensor {RPCA} and its Application},
+  journal   = {{IEEE} Trans. Pattern Anal. Mach. Intell.},
+  volume    = {43},
+  number    = {6},
+  pages     = {2133--2140},
+  year      = {2021}
+}

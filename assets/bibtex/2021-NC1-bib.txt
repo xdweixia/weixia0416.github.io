@@ -1,0 +1,11 @@
+@article{XiaGWG21,
+  author    = {Wei Xia and
+               Quanxue Gao and
+               Qianqian Wang and
+               Xinbo Gao},
+  title     = {Regression-based clustering network via combining prior information},
+  journal   = {Neurocomputing},
+  volume    = {448},
+  pages     = {324--332},
+  year      = {2021}
+}

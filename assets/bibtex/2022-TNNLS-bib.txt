@@ -1,0 +1,9 @@
+@ARTICLE{9703098,
+  author={Wang, Qianqian and Tao, Zhiqiang and Xia, Wei and Gao, Quanxue and Cao, Xiaochun and Jiao, Licheng},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Adversarial Multiview Clustering Networks With Adaptive Fusion}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TNNLS.2022.3145048}}

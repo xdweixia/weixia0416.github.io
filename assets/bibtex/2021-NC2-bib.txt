@@ -1,0 +1,11 @@
+@article{XiaZGG21,
+  author    = {Wei Xia and
+               Xiangdong Zhang and
+               Quanxue Gao and
+               Xinbo Gao},
+  title     = {Adversarial self-supervised clustering with cluster-specificity distribution},
+  journal   = {Neurocomputing},
+  volume    = {449},
+  pages     = {38--47},
+  year      = {2021}
+}

@@ -1,0 +1,8 @@
+@ARTICLE{YGXYG22,
+  author={Yang, Haizhou and Gao, Quanxue and Xia, Wei and Yang, Ming and Gao, Xinbo},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Multiview Spectral Clustering With Bipartite Graph}, 
+  year={2022},
+  volume={31},
+  pages={3591-3605}
+  }

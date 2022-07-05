@@ -1,0 +1,6 @@
+ @ARTICLE{XGWGCT2022,
+  author={Xia, Wei and Gao, Quanxue and Wang, Qianqian and Gao, Xinbo and Ding, Chris and Tao, Dacheng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Tensorized Bipartite Graph Learning for Multi-View Clustering}, 
+  year={2022},
+  doi={10.1109/TPAMI.2022.3187976}}

@@ -1,0 +1,9 @@
+@ARTICLE{XiaWGYG21,
+  author={Xia, Wei and Wang, Qianqian and Gao, Quanxue and Yang, Ming and Gao, Xinbo},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Self-consistent Contrastive Attributed Graph Clustering with Pseudo-label Prompt}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TMM.2022.3213208}}
